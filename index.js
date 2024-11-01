@@ -5,4 +5,9 @@
 //console.log("trna");
 //alert("greene");
 console.log("here ");
-document.getElementsByTagName("P").style.Color="red";
+//document.getElementsByTagName("P").style.Color="red";
+
+const body = document.querySelector('#body');
+
+body.style.color ='red';
+body.style.backgroundColor='lightblue';
