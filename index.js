@@ -9,5 +9,5 @@ console.log("here ");
 
 const body = document.querySelector('#body');
 
-body.style.color ='red';
+body.style.color ='Black';
 body.style.backgroundColor='lightblue';
